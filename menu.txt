@@ -1,0 +1,16 @@
+Interstellar Travel App Menu Options
+   1. Read a Celestial objects data file
+   2. Read a Solar System connection file
+   3. Print out each Solar System's Celestial details
+   4. Print out each Solar System's connection details
+   5. Print loaded Celestial stats
+   6. Plan flight path
+   7. Validate the flight path
+   8. Print path
+   9. Print path connections
+  10. Print Celestial objects on path   
+  11. Clear path data
+  12. Clear each system's connection data
+  13. Clear all systems data
+  14. Generate a path from a start and finish
+  15. Exit the application
