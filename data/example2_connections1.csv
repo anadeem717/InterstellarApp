@@ -1,0 +1,5 @@
+# data connections file
+# first is source, then all remaining are potential destinations
+Sol1,Sol2
+Sol2,Sol3,Sol1,Sol5
+Sol3,Sol1

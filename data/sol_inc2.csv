@@ -1,0 +1,10 @@
+# This file was created for test purposes to mimic data from the NASA Exoplanet Archive
+# http://exoplanetarchive.ipac.caltech.edu
+#
+Satellite,Titan,Saturn,Sol,0.40414,No
+Satellite,Janus,Saturn,Sol,0.14048,No
+Planet,Uranus,Sol,Sol,30589.000,4.0
+Planet,Neptune,Sol,Sol,59800.000,3.9
+Planet,Pluto,Sol,Sol,90560.00,0.2
+
+Satellite,International Space Station,Earth,Sol,0.0000171,Yes

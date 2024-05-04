@@ -1,0 +1,11 @@
+# data connections file
+# first is source, then all remaining are potential destinations
+
+# bad source
+Sol4,Sol2
+
+# bad destination
+Sol,Sol8
+
+# bad destination
+Sol,Sol2,Sol10

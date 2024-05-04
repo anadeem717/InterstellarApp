@@ -1,0 +1,8 @@
+# This file was created for test purposes to mimic data from the NASA Exoplanet Archive
+# http://exoplanetarchive.ipac.caltech.edu
+#
+System,Sol
+Star,Sol,Sol,G2 V,5780.00,1.00
+Planet,Earth,Sol,Sol,365.20,1.00
+Satellite,Moon,Earth,Sol
+Planet,Mars,Sol,Sol,687.00,0.53

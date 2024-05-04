@@ -1,0 +1,16 @@
+# This file was created for test purposes to mimic data from the NASA Exoplanet Archive
+# http://exoplanetarchive.ipac.caltech.edu
+#
+Star,Sol,Sol,G2 V,5780.00,1.00
+
+# missing planet, must add planet before satellite
+Satellite,MissingEarth,Earth,Sol,0.27,No
+
+# missing star, must add star before planet
+Planet,MissingSol2Star,Sol2,Sol,687.00,0.53
+
+# missing solar system, must add system before planet
+Planet,MissingSol3System,Sol,Sol3,90,0.12
+
+# missing system & star, must add system and star before planet
+Planet,MissingSystemStarSol4_5,Sol5,Sol4,1583.23,12.28

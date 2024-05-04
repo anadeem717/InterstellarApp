@@ -1,0 +1,16 @@
+# This file was created for test purposes to mimic data from the NASA Exoplanet Archive
+# http://exoplanetarchive.ipac.caltech.edu
+#
+System,Sol
+Star,Sol,Sol,G2 V,5780.00,1.00
+Planet,Mercury,Sol,Sol,88.000000,0.38
+Planet,Venus,Sol,Sol,224.70,0.95
+Planet,Earth,Sol,Sol,365.20,1.00
+Satellite,Moon,Earth,Sol,0.27,No
+
+Planet,Mars,Sol,Sol,687.00,0.53
+
+Satellite,Phobos,Mars,Sol,0.00177,No
+Satellite,Deimos,Mars,Sol,0.00097,No
+Planet,Jupiter,Sol,Sol,4331.0000,11.2
+Planet,Saturn,Sol,Sol,10741.0000,9.5
